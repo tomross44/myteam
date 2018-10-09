@@ -1,0 +1,19 @@
+.bg-dark {
+    background-color: #f81100!important;
+}
+
+h1{
+    color:red;
+}
+
+.logo{
+    height:160px;
+}
+
+.i fas fa-star{
+    color: red;
+}
+
+.jumbotron{
+    background-color: #ff00000f;
+}
